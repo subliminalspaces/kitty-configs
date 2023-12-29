@@ -1,0 +1,3 @@
+[submodule "kitty-scrollback.nvim"]
+	path = kitty-scrollback.nvim
+	url = https://github.com/mikesmithgh/kitty-scrollback.nvim
